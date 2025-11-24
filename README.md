@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandr 👋</h1>
+<h1 align="center">Hi, I'm Alexandr </h1>
 <h3 align="center">Frontend Developer</h3>
 
 🌍 Based in Kazakhstan  
@@ -17,8 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+
 </p>
 
 ---
@@ -29,4 +28,4 @@
 
 ---
 
-💬 Feel free to reach out on Telegram: [@ruskapo](https://t.me/ruskapo)
+
