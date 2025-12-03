@@ -24,7 +24,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruskapo&layout=compact&theme=github_dark&hide_progress=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ruskapo&layout=compact&theme=github_dark)
+
+
 
 
 ---
