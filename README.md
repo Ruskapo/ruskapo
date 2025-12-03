@@ -22,9 +22,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ruskapo&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ruskapo&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 
